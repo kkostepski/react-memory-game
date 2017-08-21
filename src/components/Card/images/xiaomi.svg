@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 800 800" xml:space="preserve" height="800px" width="800px" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 800" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rect width="800" height="800" fill="#F57921"/>
+	<defs>
+		<rect id="SVGID_1_" width="800" height="800"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use overflow="visible" xlink:href="#SVGID_1_"/>
+	</clipPath>
+	<path fill="#FAF9F5" d="M541.82,603.47v-291.62c0-66.258-53.699-119.98-119.95-119.98h-337.19c-2.6,0-4.705,2.094-4.705,4.667v406.93c0,2.573,2.105,4.658,4.705,4.658h90.067c2.6,0,4.705-2.096,4.705-4.687v-319.39c0-2.591,2.105-4.695,4.706-4.695h193.68c36.367,0,65.865,29.479,65.865,65.855v258.22c0,2.591,2.104,4.687,4.688,4.687h88.744c2.58,0,4.69-2.09,4.69-4.66" clip-path="url(#SVGID_2_)"/>
+	<path fill="#FAF9F5" d="M359.94,603.44c0,2.592-2.085,4.687-4.687,4.687h-90.046c-2.601,0-4.706-2.095-4.706-4.687v-244.75c0-2.591,2.105-4.695,4.706-4.695h90.046c2.602,0,4.687,2.104,4.687,4.695v244.76z" clip-path="url(#SVGID_2_)"/>
+	<path fill="#FAF9F5" d="M720.02,603.44c0,2.592-2.105,4.687-4.707,4.687h-90.026c-2.603,0-4.727-2.095-4.727-4.687v-406.86c0-2.602,2.124-4.705,4.727-4.705h90.026c2.602,0,4.707,2.103,4.707,4.705v406.86z" clip-path="url(#SVGID_2_)"/>
+</svg>
