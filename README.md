@@ -20,7 +20,7 @@ There 4 difficult levels in the game. You need to select that one which you pref
 
 ## Run the game locally
 ```
-npm install (or yarn install)
-npm rum start (or yarn start)
+yarn install (or npm install)
+yarn start (or npm run start)
 ```
 The browser should be opened automatically (under http://localhost:300)
